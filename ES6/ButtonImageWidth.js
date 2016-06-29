@@ -1,5 +1,5 @@
-mport React, { Component, PropTypes } from 'react'
-import AlloyEditor, {ButtonStyle, ButtonActionStyle} from 'alloyeditor';
+import React, { Component, PropTypes } from 'react'
+import AlloyEditor from 'alloyeditor';
 
 class ButtonImageWidth extends Component {
 
