@@ -5,7 +5,7 @@ This library is an extension for AlloyEditor to allow editing image widths in a 
 
 ## Setup
 
-1. Import ButtonImageWidth into your AlloyEditor project
+1. Import `ButtonImageWidth` into your AlloyEditor project
 ```js
 import ButtonImageWidth from '../custom-alloy-buttons/ButtonImageWidth';
 ```
@@ -14,7 +14,7 @@ or
 var ButtonImageWidth = require('../custom-alloy-buttons/ButtonImageWidth');
 ```
 
-2. Add `imageWidth' to your AlloyEditor Config
+2. Add `imageWidth` to your AlloyEditor Config
 ```js
 AlloyEditor.editable('editorId', {
     toolbars: {
